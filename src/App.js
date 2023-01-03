@@ -10,7 +10,7 @@ function App() {
           <label for="exampleInputEmail1" class="form-label">Email address</label>
           <input type="email" class="form-control" id="exampleInputEmail1" 
           aria-describedby="emailHelp" placeholder='tu_correo@mail.com'/>
-          <label for="exampleInputEmail1" class="form-label">Cuentanos mas acerca de lo que necesitas:</label>
+          <label for="exampleInputEmail1" class="form-label">Cuenptanos mas acerca de lo que necesitas:</label>
           <textarea class="form-control" id="exampleInputEmail1" 
           aria-describedby="emailHelp"/>
           <input type="submit" value="Registrarse" id='btn' className='btn btn-info mb-4'/>
